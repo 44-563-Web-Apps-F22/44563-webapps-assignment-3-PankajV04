@@ -1,4 +1,4 @@
 # WebApps-F22-Assignment-3
 Assignment 3 - Basic HTML
 Hosted at
-[44-563-Web-Apps-F22.github.io](https://github.com/44-563-Web-Apps-F22/44563-webapps-assignment-3-PankajV04/settings/pages)
+[44-563-Web-Apps-F22.github.io](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-PankajV04/)
